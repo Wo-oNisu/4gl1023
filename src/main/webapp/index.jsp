@@ -29,7 +29,7 @@
             <input type="number" placeholder="Enter phone number" required />
           </div>
           <div class="input-box">
-            <label>Birth Date</label>
+            <label>Death Date</label>
             <input type="date" placeholder="Enter birth date" required />
           </div>
         </div>
